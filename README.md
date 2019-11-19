@@ -1,6 +1,4 @@
-# spencerhanson.net
-[Personal website](https://spencerhanson.net/) hosted on Siteground.
-
+# [spencerhanson.net](https://spencerhanson.net/)
 Features:
 * Navbar with collapsable menu
 * Time-of-day dependent background
