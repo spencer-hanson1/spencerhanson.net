@@ -1,7 +1,7 @@
 # [spencerhanson.net](https://spencerhanson.net/)
 Features:
 * Navbar with collapsable menu
-* Time-of-day dependent background
+* Time-of-day dependent background that fades in
 * Carousel of photos from my travels
 * And more!
 
