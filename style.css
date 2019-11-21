@@ -164,7 +164,7 @@ hr {
   border-radius: 50%;
 }
 
-#website-title:hover {
+#tracker-title:hover, #website-title:hover {
   color: rgba(0, 0, 0, .5);
 }
 
